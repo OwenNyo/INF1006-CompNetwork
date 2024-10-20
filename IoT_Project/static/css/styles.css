@@ -1,0 +1,187 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar__container {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar__logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 20px;
+}
+
+.navbar__links {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar__links li {
+    margin-right: 20px;
+}
+
+.navbar__links li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar__links li a:hover {
+    text-decoration: underline;
+}
+
+/* Real Time Data section */
+.live__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px 0;
+    height: 800px;
+}
+
+.camera__container {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 20px;
+}
+
+.camera__container h2{
+    display: flex;
+    justify-content: center;
+}
+
+.statistics__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.statistics__container--content {
+    position: relative;
+    width: 700px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    transition: opacity 450ms ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.statistics__container--content h2 {
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+.column__container {
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.content__container {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.content-size {
+    font-size: 25px;
+}
+
+.logo__container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Statistics Overlay */
+.statistics__wrapper--bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c1d25;
+    opacity: 0;
+    transition: opacity 450ms ease;
+    pointer-events: none; /* Ensures it doesn't interfere with hover */
+}
+
+.statistics__description {
+    position: absolute;
+    bottom: 80px;
+    left: 30%;
+    transform: translateX(-40%);
+    opacity: 0;
+    transition: opacity 300ms, transform 450ms ease;
+    color: white;
+}
+
+.statistics__container--content:hover .statistics__wrapper--bg {
+    opacity: 0.7;
+    pointer-events: auto; /* Allows hover to trigger */
+}
+
+.statistics__container--content:hover .statistics__description {
+    opacity: 1;
+}
+
+.statistics__container--content:hover .column__container{
+    opacity: 0;
+}
+
+
+/* Graph section */
+.graph__container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 0;
+}
+
+.graph__container--content {
+    width: 900px;
+    height: 700px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.graph__container--content h2 {
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}

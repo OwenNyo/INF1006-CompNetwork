@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT SmartHome</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="navbar__container">
+        <h1 class="navbar__logo">IoT SmartHome</h1>
+        <ul class="navbar__links">
+            <li><a href="{{ url_for('home') }}">Live Data</a></li>
+            <li><a href="{{ url_for('graphs') }}">Graphs</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="Live" class="live__container">
+    <!-- Real-Time Camera -->
+    <div class="camera__container">
+        <h2>Real-Time Camera</h2>
+            <iframe id="camera_iframe" src="http://192.168.1.10:7123/index.html" title="Camera" width="800" height="600"></iframe>
+    </div>
+
+    <!-- Statistics -->
+    <div class="statistics__container">
+        <!-- Temperature | Humidity -->
+        <div class="statistics__container--content">
+            <h2>Temperature | Humidity</h2>
+            <div class="column__container">
+                <div class="content__container">
+                    <div class="content-size">
+                        <p>
+                            <strong>🌡 Temperature:</strong> <span id="temperature_value">Loading...</span>
+                        </p>
+                    </div>       
+                    <div class="content-size">
+                        <p>
+                            <strong>🌧 Humidity:</strong> <span id="humidity_value">Loading...</span>
+                        </p>
+                    </div>                                 
+                </div>
+
+                <div class="logo__container">
+                    <img id="aircon-on-img" src="{{ url_for('static', filename='images/AC_On.png') }}" alt="AirCon On" width="100" height="100" class="hidden">
+                    <img id="aircon-off-img" src="{{ url_for('static', filename='images/AC_Off.png') }}" alt="AirCon Off" width="100" height="100">
+                </div>
+                
+            </div>
+            <div class="statistics__wrapper--bg"></div>
+            <div class="statistics__description">
+                <p>Temperature Control Tip: Maintaining a temperature around 22-24°C can optimize energy efficiency without compromising comfort.</p>
+                <p>Humidity Insight: Keeping indoor humidity between 40-60% helps prevent mold growth and enhances respiratory health.</p>
+            </div>
+        </div>
+
+        <!-- Motion | Ultrasonic -->
+        <div class="statistics__container--content">
+            <h2>Motion | Ultrasonic</h2>
+            <div class="column__container">
+                <div class="content__container">
+                    <div class="content-size">
+                        <p>
+                            <strong>🧍 Motion:</strong> <span id="motion_value">Loading...</span>
+                        </p>
+                    </div> 
+                    <div class="content-size">
+                        <p>
+                            <strong>↔ Distance</strong> <span id="ultrasonic_value">Loading...</span>
+                        </p>
+                    </div> 
+                </div>
+                
+                <div class="logo__container">
+                    <img id="room-on-img" src="{{ url_for('static', filename='images/Room_On.png') }}" alt="Room On" width="100" height="100" class="hidden">
+                    <img id="room-off-img" src="{{ url_for('static', filename='images/Room_Off.png') }}" alt="Room Off" width="100" height="100">
+                </div>
+
+
+            </div>
+            <div class="statistics__wrapper--bg"></div>
+            <div class="statistics__description">
+                <p>Optimize Security: Adjust the sensitivity of motion detection to enhance home security without false alarms.</p>
+                <p>Energy Efficiency: Use motion sensors to automate lighting and save energy when rooms are unoccupied.</p>
+            </div>
+        </div>
+
+        <!-- Plant Light -->
+        <div class="statistics__container--content">
+            <h2>Plant Light</h2>
+            <div class="column__container">
+                <div class="content__container">
+                    <div class="content-size">
+                        <p>
+                            <strong>💡 Light:</strong> <span id="light_value">Loading...</span>
+                        </p>
+                    </div> 
+                </div>
+
+                <div class="logo__container">
+                    <img id="plant-on-img" src="{{ url_for('static', filename='images/Plant_On.png') }}" alt="Plant On" width="100" height="100" class="hidden">
+                    <img id="plant-off-img" src="{{ url_for('static', filename='images/Plant_Off.png') }}" alt="Plant Off" width="100" height="100">
+                </div>
+            </div>
+            <div class="statistics__wrapper--bg"></div>
+            <div class="statistics__description">
+                <p>Different plants have varying light requirements. Research the specific needs of your plants—some thrive in direct sunlight, while others prefer indirect or shaded light.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<div id="Graphs" class="graph__container">-->
+<!--    <div class="graph__container&#45;&#45;content">-->
+<!--        <h2> Graph Content Goes Here</h2>-->
+<!--    </div>-->
+<!--    <div class="graph__container&#45;&#45;content">-->
+<!--        <h2> Graph Content Goes Here</h2>-->
+<!--    </div>-->
+<!--</div>-->
+</body>
+</html>

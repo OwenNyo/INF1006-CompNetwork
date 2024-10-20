@@ -1,0 +1,795 @@
+Timestamp,Topic,Message
+2024-07-05 16:34:44,Motion,Detected
+2024-07-05 16:34:47,Motion,Not Detected
+2024-07-05 16:34:53,Motion,Not Detected
+2024-07-05 16:34:59,Motion,Not Detected
+2024-07-05 16:35:02,Motion,Not Detected
+2024-07-05 16:35:05,Motion,Not Detected
+2024-07-05 16:35:08,Motion,Not Detected
+2024-07-05 16:35:11,Motion,Not Detected
+2024-07-05 16:35:14,Motion,Not Detected
+2024-07-05 16:35:17,Motion,Not Detected
+2024-07-05 16:35:20,Motion,Not Detected
+2024-07-05 16:35:23,Motion,Not Detected
+2024-07-05 16:35:26,Motion,Not Detected
+2024-07-05 16:35:29,Motion,Not Detected
+2024-07-05 16:35:35,Motion,Not Detected
+2024-07-05 16:35:41,Motion,Not Detected
+2024-07-05 16:35:47,Motion,Not Detected
+2024-07-05 16:35:50,Motion,Detected
+2024-07-05 16:35:53,Motion,Not Detected
+2024-07-05 16:35:56,Motion,Not Detected
+2024-07-05 16:35:59,Motion,Not Detected
+2024-07-05 16:36:02,Motion,Not Detected
+2024-07-05 16:36:05,Motion,Not Detected
+2024-07-05 16:36:08,Motion,Not Detected
+2024-07-05 16:36:11,Motion,Not Detected
+2024-07-05 16:36:14,Motion,Not Detected
+2024-07-05 16:36:17,Motion,Not Detected
+2024-07-05 16:36:23,Motion,Not Detected
+2024-07-05 16:36:26,Motion,Not Detected
+2024-07-05 16:36:29,Motion,Not Detected
+2024-07-05 16:36:32,Motion,Not Detected
+2024-07-05 16:36:38,Motion,Not Detected
+2024-07-05 16:36:44,Motion,Detected
+2024-07-05 16:36:53,Motion,Not Detected
+2024-07-05 16:36:56,Motion,Not Detected
+2024-07-05 16:36:59,Motion,Detected
+2024-07-05 16:37:05,Motion,Not Detected
+2024-07-05 16:38:08,Motion,Not Detected
+2024-07-05 16:38:17,Motion,Not Detected
+2024-07-05 16:38:20,Motion,Not Detected
+2024-07-05 16:38:23,Motion,Detected
+2024-07-05 16:38:26,Motion,Not Detected
+2024-07-05 16:38:29,Motion,Not Detected
+2024-07-05 16:38:32,Motion,Not Detected
+2024-07-05 16:38:35,Motion,Not Detected
+2024-07-05 16:38:38,Motion,Not Detected
+2024-07-05 16:38:44,Motion,Not Detected
+2024-07-05 16:38:50,Motion,Not Detected
+2024-07-05 16:38:53,Motion,Not Detected
+2024-07-05 16:38:56,Motion,Not Detected
+2024-07-05 16:38:59,Motion,Not Detected
+2024-07-05 16:39:02,Motion,Not Detected
+2024-07-05 16:39:05,Motion,Not Detected
+2024-07-05 16:39:14,Motion,Not Detected
+2024-07-05 16:39:17,Motion,Not Detected
+2024-07-05 16:39:20,Motion,Not Detected
+2024-07-05 16:39:26,Motion,Not Detected
+2024-07-05 16:39:29,Motion,Not Detected
+2024-07-05 16:39:35,Motion,Not Detected
+2024-07-05 16:39:38,Motion,Detected
+2024-07-05 16:39:47,Motion,Detected
+2024-07-05 16:39:50,Motion,Not Detected
+2024-07-05 16:39:56,Motion,Not Detected
+2024-07-05 16:40:02,Motion,Not Detected
+2024-07-05 16:40:05,Motion,Not Detected
+2024-07-05 16:40:08,Motion,Not Detected
+2024-07-05 16:40:11,Motion,Not Detected
+2024-07-05 16:40:14,Motion,Not Detected
+2024-07-05 16:40:17,Motion,Not Detected
+2024-07-05 16:40:20,Motion,Not Detected
+2024-07-05 16:40:23,Motion,Not Detected
+2024-07-05 16:40:26,Motion,Not Detected
+2024-07-05 16:40:32,Motion,Not Detected
+2024-07-05 16:40:35,Motion,Not Detected
+2024-07-05 16:40:38,Motion,Not Detected
+2024-07-05 16:40:41,Motion,Not Detected
+2024-07-05 16:40:44,Motion,Not Detected
+2024-07-05 16:40:47,Motion,Not Detected
+2024-07-05 16:40:53,Motion,Not Detected
+2024-07-05 16:40:56,Motion,Not Detected
+2024-07-05 16:40:59,Motion,Not Detected
+2024-07-05 16:41:08,Motion,Not Detected
+2024-07-05 16:41:11,Motion,Detected
+2024-07-05 16:41:14,Motion,Not Detected
+2024-07-05 16:41:17,Motion,Not Detected
+2024-07-05 16:41:20,Motion,Not Detected
+2024-07-05 16:41:23,Motion,Not Detected
+2024-07-05 16:41:26,Motion,Not Detected
+2024-07-05 16:41:29,Motion,Not Detected
+2024-07-05 16:41:35,Motion,Not Detected
+2024-07-05 16:41:38,Motion,Not Detected
+2024-07-05 16:41:41,Motion,Not Detected
+2024-07-05 16:41:44,Motion,Not Detected
+2024-07-05 16:41:47,Motion,Not Detected
+2024-07-05 16:41:50,Motion,Not Detected
+2024-07-05 16:41:53,Motion,Not Detected
+2024-07-05 16:41:56,Motion,Not Detected
+2024-07-05 16:41:59,Motion,Not Detected
+2024-07-05 16:42:08,Motion,Not Detected
+2024-07-05 16:42:11,Motion,Not Detected
+2024-07-05 16:42:14,Motion,Not Detected
+2024-07-05 16:42:17,Motion,Not Detected
+2024-07-05 16:42:20,Motion,Not Detected
+2024-07-05 16:42:23,Motion,Not Detected
+2024-07-05 16:42:26,Motion,Not Detected
+2024-07-05 16:42:32,Motion,Not Detected
+2024-07-05 16:42:38,Motion,Not Detected
+2024-07-05 16:42:41,Motion,Not Detected
+2024-07-05 16:42:44,Motion,Detected
+2024-07-05 16:42:47,Motion,Not Detected
+2024-07-05 16:42:50,Motion,Not Detected
+2024-07-05 16:42:56,Motion,Not Detected
+2024-07-05 16:43:02,Motion,Detected
+2024-07-05 16:43:11,Motion,Not Detected
+2024-07-05 16:43:14,Motion,Detected
+2024-07-05 16:43:17,Motion,Not Detected
+2024-07-05 16:43:20,Motion,Not Detected
+2024-07-05 16:43:23,Motion,Not Detected
+2024-07-05 16:43:32,Motion,Detected
+2024-07-05 16:43:35,Motion,Not Detected
+2024-07-05 16:43:38,Motion,Not Detected
+2024-07-05 16:43:41,Motion,Not Detected
+2024-07-05 16:43:44,Motion,Not Detected
+2024-07-05 16:43:50,Motion,Not Detected
+2024-07-05 16:43:53,Motion,Not Detected
+2024-07-05 16:43:56,Motion,Not Detected
+2024-07-05 16:43:59,Motion,Not Detected
+2024-07-05 16:44:08,Motion,Detected
+2024-07-05 16:44:11,Motion,Not Detected
+2024-07-05 16:44:20,Motion,Not Detected
+2024-07-05 16:44:23,Motion,Not Detected
+2024-07-05 16:44:26,Motion,Not Detected
+2024-07-05 16:44:29,Motion,Not Detected
+2024-07-05 16:44:38,Motion,Detected
+2024-07-05 16:44:44,Motion,Not Detected
+2024-07-05 16:44:50,Motion,Detected
+2024-07-05 16:44:59,Motion,Detected
+2024-07-05 16:45:05,Motion,Not Detected
+2024-07-05 16:45:11,Motion,Not Detected
+2024-07-05 16:45:14,Motion,Detected
+2024-07-05 16:45:23,Motion,Not Detected
+2024-07-05 16:45:26,Motion,Not Detected
+2024-07-05 16:45:29,Motion,Not Detected
+2024-07-05 16:45:35,Motion,Not Detected
+2024-07-05 16:45:41,Motion,Not Detected
+2024-07-05 16:45:44,Motion,Not Detected
+2024-07-05 16:45:47,Motion,Not Detected
+2024-07-05 16:45:50,Motion,Not Detected
+2024-07-05 16:45:53,Motion,Not Detected
+2024-07-05 16:45:56,Motion,Not Detected
+2024-07-05 16:46:05,Motion,Detected
+2024-07-05 16:46:11,Motion,Not Detected
+2024-07-05 16:46:14,Motion,Not Detected
+2024-07-05 16:46:17,Motion,Not Detected
+2024-07-05 16:46:20,Motion,Not Detected
+2024-07-05 16:46:23,Motion,Not Detected
+2024-07-05 16:46:29,Motion,Not Detected
+2024-07-05 16:46:35,Motion,Not Detected
+2024-07-05 16:46:38,Motion,Not Detected
+2024-07-05 16:46:41,Motion,Detected
+2024-07-05 16:46:44,Motion,Not Detected
+2024-07-05 16:46:50,Motion,Not Detected
+2024-07-05 16:46:56,Motion,Not Detected
+2024-07-05 16:46:59,Motion,Not Detected
+2024-07-05 16:47:02,Motion,Detected
+2024-07-05 16:47:05,Motion,Not Detected
+2024-07-05 16:47:08,Motion,Not Detected
+2024-07-05 16:47:11,Motion,Not Detected
+2024-07-05 16:47:20,Motion,Detected
+2024-07-05 16:47:29,Motion,Not Detected
+2024-07-05 16:47:32,Motion,Not Detected
+2024-07-05 16:47:35,Motion,Not Detected
+2024-07-05 16:47:41,Motion,Not Detected
+2024-07-05 16:47:47,Motion,Detected
+2024-07-05 16:47:50,Motion,Not Detected
+2024-07-05 16:47:56,Motion,Not Detected
+2024-07-05 16:48:02,Motion,Not Detected
+2024-07-05 16:48:05,Motion,Detected
+2024-07-05 16:48:08,Motion,Not Detected
+2024-07-05 16:48:11,Motion,Not Detected
+2024-07-05 16:48:17,Motion,Not Detected
+2024-07-05 16:48:23,Motion,Not Detected
+2024-07-05 16:48:26,Motion,Not Detected
+2024-07-05 16:48:29,Motion,Not Detected
+2024-07-05 16:48:32,Motion,Not Detected
+2024-07-05 16:48:35,Motion,Not Detected
+2024-07-05 16:48:41,Motion,Not Detected
+2024-07-05 16:48:44,Motion,Not Detected
+2024-07-05 16:48:50,Motion,Detected
+2024-07-05 16:48:53,Motion,Not Detected
+2024-07-05 16:49:02,Motion,Detected
+2024-07-05 16:49:05,Motion,Not Detected
+2024-07-05 16:49:14,Motion,Not Detected
+2024-07-05 16:49:17,Motion,Detected
+2024-07-05 16:49:20,Motion,Not Detected
+2024-07-05 16:49:23,Motion,Not Detected
+2024-07-05 16:49:26,Motion,Not Detected
+2024-07-05 16:49:29,Motion,Not Detected
+2024-07-05 16:49:32,Motion,Not Detected
+2024-07-05 16:49:35,Motion,Not Detected
+2024-07-05 16:49:38,Motion,Not Detected
+2024-07-05 16:49:41,Motion,Not Detected
+2024-07-05 16:49:44,Motion,Not Detected
+2024-07-05 16:49:47,Motion,Not Detected
+2024-07-05 16:49:50,Motion,Not Detected
+2024-07-05 16:49:59,Motion,Not Detected
+2024-07-05 16:50:02,Motion,Detected
+2024-07-05 16:50:05,Motion,Not Detected
+2024-07-05 16:50:08,Motion,Not Detected
+2024-07-05 16:50:11,Motion,Not Detected
+2024-07-05 16:50:14,Motion,Not Detected
+2024-07-05 16:50:20,Motion,Not Detected
+2024-07-05 16:50:23,Motion,Not Detected
+2024-07-05 16:50:26,Motion,Not Detected
+2024-07-05 16:50:35,Motion,Detected
+2024-07-05 16:50:38,Motion,Not Detected
+2024-07-05 16:50:44,Motion,Not Detected
+2024-07-05 16:50:47,Motion,Not Detected
+2024-07-05 16:50:50,Motion,Not Detected
+2024-07-05 16:50:59,Motion,Not Detected
+2024-07-05 16:51:02,Motion,Not Detected
+2024-07-05 16:51:05,Motion,Detected
+2024-07-05 16:51:08,Motion,Not Detected
+2024-07-10 22:58:18,Motion,Not Detected
+2024-07-10 22:58:27,Motion,Not Detected
+2024-07-10 22:58:30,Motion,Detected
+2024-07-10 22:58:39,Motion,Detected
+2024-07-10 22:58:48,Motion,Detected
+2024-07-10 22:58:57,Motion,Detected
+2024-07-10 22:59:03,Motion,Not Detected
+2024-07-10 22:59:09,Motion,Detected
+2024-07-10 22:59:18,Motion,Detected
+2024-07-10 22:59:27,Motion,Detected
+2024-07-10 22:59:30,Motion,Not Detected
+2024-07-10 22:59:39,Motion,Not Detected
+2024-07-10 22:59:42,Motion,Detected
+2024-07-10 22:59:45,Motion,Not Detected
+2024-07-10 22:59:48,Motion,Not Detected
+2024-07-10 22:59:51,Motion,Not Detected
+2024-07-10 23:00:00,Motion,Not Detected
+2024-07-10 23:00:03,Motion,Detected
+2024-07-10 23:00:06,Motion,Not Detected
+2024-07-10 23:00:12,Motion,Not Detected
+2024-07-10 23:00:18,Motion,Detected
+2024-07-10 23:00:21,Motion,Not Detected
+2024-07-10 23:00:30,Motion,Not Detected
+2024-07-10 23:00:33,Motion,Detected
+2024-07-10 23:00:39,Motion,Not Detected
+2024-07-10 23:00:45,Motion,Detected
+2024-07-10 23:00:54,Motion,Not Detected
+2024-07-10 23:00:57,Motion,Not Detected
+2024-07-10 23:01:00,Motion,Detected
+2024-07-10 23:01:06,Motion,Not Detected
+2024-07-10 23:01:09,Motion,Not Detected
+2024-07-10 23:01:12,Motion,Not Detected
+2024-07-10 23:01:15,Motion,Not Detected
+2024-07-10 23:01:18,Motion,Not Detected
+2024-07-10 23:01:27,Motion,Not Detected
+2024-07-10 23:01:30,Motion,Not Detected
+2024-07-10 23:01:33,Motion,Not Detected
+2024-07-10 23:01:36,Motion,Not Detected
+2024-07-10 23:01:45,Motion,Not Detected
+2024-07-10 23:01:48,Motion,Detected
+2024-07-10 23:01:51,Motion,Not Detected
+2024-07-10 23:01:57,Motion,Not Detected
+2024-07-10 23:02:03,Motion,Detected
+2024-07-10 23:02:12,Motion,Detected
+2024-07-10 23:02:18,Motion,Not Detected
+2024-07-10 23:02:24,Motion,Detected
+2024-07-10 23:02:33,Motion,Detected
+2024-07-10 23:02:36,Motion,Not Detected
+2024-07-10 23:02:39,Motion,Not Detected
+2024-07-10 23:02:42,Motion,Not Detected
+2024-07-10 23:02:45,Motion,Not Detected
+2024-07-10 23:02:48,Motion,Not Detected
+2024-07-10 23:02:57,Motion,Not Detected
+2024-07-10 23:03:00,Motion,Not Detected
+2024-07-10 23:03:03,Motion,Not Detected
+2024-07-10 23:03:12,Motion,Detected
+2024-07-10 23:03:21,Motion,Not Detected
+2024-07-10 23:03:24,Motion,Detected
+2024-07-10 23:03:30,Motion,Not Detected
+2024-07-10 23:03:33,Motion,Not Detected
+2024-07-10 23:03:36,Motion,Not Detected
+2024-07-10 23:03:39,Motion,Not Detected
+2024-07-10 23:03:42,Motion,Not Detected
+2024-07-10 23:25:02,Motion,Not Detected
+2024-07-10 23:25:05,Motion,Not Detected
+2024-07-10 23:25:11,Motion,Detected
+2024-07-10 23:25:14,Motion,Not Detected
+2024-07-10 23:25:20,Motion,Not Detected
+2024-07-10 23:25:23,Motion,Not Detected
+2024-07-10 23:25:26,Motion,Not Detected
+2024-07-10 23:25:29,Motion,Not Detected
+2024-07-10 23:25:35,Motion,Not Detected
+2024-07-10 23:25:38,Motion,Not Detected
+2024-07-10 23:25:41,Motion,Not Detected
+2024-07-10 23:25:44,Motion,Not Detected
+2024-07-10 23:25:47,Motion,Not Detected
+2024-07-10 23:25:56,Motion,Not Detected
+2024-07-10 23:25:59,Motion,Detected
+2024-07-10 23:26:05,Motion,Not Detected
+2024-07-10 23:26:11,Motion,Detected
+2024-07-10 23:26:14,Motion,Not Detected
+2024-07-10 23:26:17,Motion,Not Detected
+2024-07-10 23:26:23,Motion,Not Detected
+2024-07-10 23:26:26,Motion,Not Detected
+2024-07-10 23:26:29,Motion,Not Detected
+2024-07-10 23:26:38,Motion,Detected
+2024-07-10 23:26:47,Motion,Detected
+2024-07-10 23:26:50,Motion,Not Detected
+2024-07-10 23:26:56,Motion,Not Detected
+2024-07-10 23:27:02,Motion,Detected
+2024-07-10 23:27:08,Motion,Not Detected
+2024-07-10 23:27:11,Motion,Not Detected
+2024-07-10 23:27:14,Motion,Not Detected
+2024-07-10 23:27:23,Motion,Not Detected
+2024-07-10 23:27:26,Motion,Detected
+2024-07-10 23:27:32,Motion,Not Detected
+2024-07-10 23:27:38,Motion,Detected
+2024-07-10 23:27:44,Motion,Not Detected
+2024-07-10 23:27:50,Motion,Detected
+2024-07-10 23:27:59,Motion,Detected
+2024-07-10 23:28:08,Motion,Not Detected
+2024-07-10 23:28:11,Motion,Not Detected
+2024-07-10 23:28:14,Motion,Not Detected
+2024-07-10 23:28:17,Motion,Not Detected
+2024-07-10 23:28:23,Motion,Not Detected
+2024-07-10 23:28:26,Motion,Not Detected
+2024-07-10 23:28:32,Motion,Not Detected
+2024-07-10 23:28:35,Motion,Detected
+2024-07-10 23:28:41,Motion,Not Detected
+2024-07-10 23:28:44,Motion,Not Detected
+2024-07-10 23:28:50,Motion,Detected
+2024-07-10 23:28:59,Motion,Not Detected
+2024-07-10 23:29:02,Motion,Detected
+2024-07-10 23:29:08,Motion,Not Detected
+2024-07-10 23:29:14,Motion,Detected
+2024-07-10 23:29:23,Motion,Detected
+2024-07-10 23:29:32,Motion,Detected
+2024-07-10 23:29:35,Motion,Not Detected
+2024-07-10 23:29:38,Motion,Not Detected
+2024-07-10 23:29:41,Motion,Not Detected
+2024-07-10 23:29:50,Motion,Detected
+2024-07-10 23:29:53,Motion,Not Detected
+2024-07-10 23:29:56,Motion,Not Detected
+2024-07-10 23:30:05,Motion,Detected
+2024-07-10 23:30:08,Motion,Not Detected
+2024-07-10 23:30:17,Motion,Detected
+2024-07-10 23:30:26,Motion,Detected
+2024-07-10 23:30:29,Motion,Not Detected
+2024-07-10 23:30:35,Motion,Not Detected
+2024-07-10 23:30:41,Motion,Detected
+2024-07-10 23:30:44,Motion,Not Detected
+2024-07-10 23:30:50,Motion,Not Detected
+2024-07-10 23:30:53,Motion,Not Detected
+2024-07-10 23:30:59,Motion,Detected
+2024-07-10 23:31:17,Motion,Detected
+2024-07-10 23:31:20,Motion,Not Detected
+2024-07-10 23:31:23,Motion,Not Detected
+2024-07-10 23:31:26,Motion,Not Detected
+2024-07-10 23:31:32,Motion,Not Detected
+2024-07-10 23:31:38,Motion,Detected
+2024-07-10 23:31:41,Motion,Not Detected
+2024-07-10 23:31:44,Motion,Not Detected
+2024-07-10 23:31:48,Motion,Not Detected
+2024-07-10 23:31:50,Motion,Not Detected
+2024-07-10 23:31:54,Motion,Not Detected
+2024-07-10 23:31:57,Motion,Not Detected
+2024-07-12 12:36:18,Motion,Not Detected
+2024-07-12 12:36:21,Motion,Not Detected
+2024-07-12 12:36:24,Motion,Not Detected
+2024-07-12 12:36:27,Motion,Not Detected
+2024-07-12 12:36:30,Motion,Not Detected
+2024-07-12 12:36:33,Motion,Not Detected
+2024-07-12 12:36:42,Motion,Detected
+2024-07-12 12:36:45,Motion,Not Detected
+2024-07-12 12:36:48,Motion,Not Detected
+2024-07-12 12:36:51,Motion,Not Detected
+2024-07-12 12:36:57,Motion,Not Detected
+2024-07-12 12:37:03,Motion,Detected
+2024-07-12 12:37:06,Motion,Not Detected
+2024-07-12 12:41:42,Motion,Not Detected
+2024-07-12 12:41:45,Motion,Not Detected
+2024-07-12 12:41:51,Motion,Detected
+2024-07-12 12:42:00,Motion,Detected
+2024-07-12 12:42:03,Motion,Not Detected
+2024-07-12 12:42:06,Motion,Not Detected
+2024-07-12 12:42:09,Motion,Not Detected
+2024-07-12 12:42:12,Motion,Not Detected
+2024-07-12 12:42:15,Motion,Not Detected
+2024-07-12 12:42:18,Motion,Not Detected
+2024-07-12 12:42:21,Motion,Not Detected
+2024-07-12 12:42:24,Motion,Not Detected
+2024-07-12 12:42:27,Motion,Not Detected
+2024-07-12 12:42:30,Motion,Not Detected
+2024-07-12 12:42:33,Motion,Not Detected
+2024-07-12 12:42:36,Motion,Not Detected
+2024-07-12 12:42:39,Motion,Not Detected
+2024-07-12 12:42:42,Motion,Not Detected
+2024-07-12 12:42:45,Motion,Not Detected
+2024-07-12 12:42:48,Motion,Not Detected
+2024-07-12 12:42:57,Motion,Detected
+2024-07-12 12:43:03,Motion,Not Detected
+2024-07-12 12:43:06,Motion,Not Detected
+2024-07-12 12:43:09,Motion,Not Detected
+2024-07-12 12:43:12,Motion,Not Detected
+2024-07-12 12:43:15,Motion,Not Detected
+2024-07-12 12:43:24,Motion,Not Detected
+2024-07-12 12:43:27,Motion,Not Detected
+2024-07-12 12:43:30,Motion,Not Detected
+2024-07-12 12:43:33,Motion,Not Detected
+2024-07-12 12:43:36,Motion,Not Detected
+2024-07-12 12:43:39,Motion,Not Detected
+2024-07-12 12:43:42,Motion,Not Detected
+2024-07-12 12:43:45,Motion,Not Detected
+2024-07-12 12:43:51,Motion,Not Detected
+2024-07-12 12:44:00,Motion,Detected
+2024-07-12 12:44:03,Motion,Not Detected
+2024-07-12 12:44:06,Motion,Not Detected
+2024-07-12 12:44:12,Motion,Not Detected
+2024-07-12 12:44:15,Motion,Not Detected
+2024-07-12 12:44:18,Motion,Not Detected
+2024-07-12 12:44:27,Motion,Not Detected
+2024-07-12 12:44:30,Motion,Not Detected
+2024-07-12 12:44:39,Motion,Detected
+2024-07-12 12:44:45,Motion,Not Detected
+2024-07-12 12:44:48,Motion,Not Detected
+2024-07-12 12:44:51,Motion,Not Detected
+2024-07-12 12:44:54,Motion,Not Detected
+2024-07-12 12:45:03,Motion,Not Detected
+2024-07-12 12:45:06,Motion,Detected
+2024-07-12 12:45:15,Motion,Not Detected
+2024-07-12 12:45:18,Motion,Not Detected
+2024-07-12 12:45:21,Motion,Not Detected
+2024-07-12 12:45:24,Motion,Not Detected
+2024-07-12 12:45:30,Motion,Not Detected
+2024-07-12 12:45:33,Motion,Not Detected
+2024-07-12 12:45:39,Motion,Not Detected
+2024-07-12 12:45:42,Motion,Not Detected
+2024-07-12 12:45:45,Motion,Not Detected
+2024-07-12 12:45:48,Motion,Not Detected
+2024-07-12 12:45:51,Motion,Not Detected
+2024-07-12 12:46:00,Motion,Not Detected
+2024-07-12 12:46:03,Motion,Not Detected
+2024-07-12 12:46:06,Motion,Not Detected
+2024-07-12 12:46:09,Motion,Not Detected
+2024-07-12 12:46:12,Motion,Not Detected
+2024-07-12 12:46:18,Motion,Not Detected
+2024-07-12 12:46:21,Motion,Not Detected
+2024-07-12 12:46:27,Motion,Detected
+2024-07-12 12:46:30,Motion,Not Detected
+2024-07-12 12:46:33,Motion,Not Detected
+2024-07-12 12:46:36,Motion,Not Detected
+2024-07-12 12:46:42,Motion,Not Detected
+2024-07-12 12:46:48,Motion,Detected
+2024-07-12 12:46:57,Motion,Detected
+2024-07-12 12:47:00,Motion,Not Detected
+2024-07-12 12:47:09,Motion,Not Detected
+2024-07-12 12:47:12,Motion,Detected
+2024-07-12 12:47:15,Motion,Not Detected
+2024-07-12 12:47:18,Motion,Not Detected
+2024-07-12 12:47:24,Motion,Not Detected
+2024-07-12 12:47:33,Motion,Detected
+2024-07-12 12:47:36,Motion,Not Detected
+2024-07-12 12:47:42,Motion,Not Detected
+2024-07-12 12:47:48,Motion,Not Detected
+2024-07-12 12:47:51,Motion,Detected
+2024-07-12 12:47:57,Motion,Not Detected
+2024-07-12 12:48:00,Motion,Not Detected
+2024-07-12 12:48:03,Motion,Not Detected
+2024-07-12 12:48:06,Motion,Not Detected
+2024-07-12 12:48:09,Motion,Not Detected
+2024-07-12 12:48:12,Motion,Not Detected
+2024-07-12 12:48:18,Motion,Not Detected
+2024-07-12 12:48:21,Motion,Not Detected
+2024-07-12 12:48:27,Motion,Detected
+2024-07-12 12:48:33,Motion,Not Detected
+2024-07-12 12:48:39,Motion,Detected
+2024-07-12 12:48:42,Motion,Not Detected
+2024-07-12 12:49:27,Motion,Not Detected
+2024-07-12 12:49:30,Motion,Detected
+2024-07-12 12:49:39,Motion,Not Detected
+2024-07-12 12:49:42,Motion,Not Detected
+2024-07-12 12:49:45,Motion,Detected
+2024-07-12 12:49:48,Motion,Not Detected
+2024-07-12 12:49:51,Motion,Not Detected
+2024-07-12 12:50:00,Motion,Detected
+2024-07-12 12:50:03,Motion,Not Detected
+2024-07-12 12:50:06,Motion,Not Detected
+2024-07-12 12:50:09,Motion,Not Detected
+2024-07-12 12:50:15,Motion,Not Detected
+2024-07-12 12:50:18,Motion,Not Detected
+2024-07-12 12:50:24,Motion,Detected
+2024-07-12 12:50:30,Motion,Not Detected
+2024-07-12 12:50:36,Motion,Not Detected
+2024-07-12 12:50:39,Motion,Detected
+2024-07-12 12:50:48,Motion,Detected
+2024-07-12 12:50:54,Motion,Not Detected
+2024-07-12 12:50:57,Motion,Not Detected
+2024-07-12 12:51:03,Motion,Detected
+2024-07-12 12:51:12,Motion,Detected
+2024-07-12 12:51:21,Motion,Not Detected
+2024-07-12 12:51:24,Motion,Detected
+2024-07-12 12:51:27,Motion,Not Detected
+2024-07-12 12:51:30,Motion,Not Detected
+2024-07-12 12:51:39,Motion,Detected
+2024-07-12 12:51:42,Motion,Not Detected
+2024-07-12 12:51:45,Motion,Not Detected
+2024-07-12 12:51:54,Motion,Not Detected
+2024-07-12 12:52:03,Motion,Not Detected
+2024-07-12 12:52:06,Motion,Not Detected
+2024-07-12 12:52:09,Motion,Not Detected
+2024-07-12 12:52:18,Motion,Detected
+2024-07-12 12:52:21,Motion,Not Detected
+2024-07-12 12:52:30,Motion,Detected
+2024-07-12 12:52:39,Motion,Detected
+2024-07-12 12:52:48,Motion,Detected
+2024-07-12 12:52:57,Motion,Detected
+2024-07-12 12:53:06,Motion,Detected
+2024-07-12 12:53:15,Motion,Not Detected
+2024-07-12 12:53:18,Motion,Not Detected
+2024-07-12 12:53:21,Motion,Detected
+2024-07-12 12:53:24,Motion,Not Detected
+2024-07-12 12:53:33,Motion,Detected
+2024-07-12 12:53:42,Motion,Detected
+2024-07-12 12:53:51,Motion,Detected
+2024-07-12 12:54:00,Motion,Not Detected
+2024-07-12 12:54:03,Motion,Detected
+2024-07-12 12:54:12,Motion,Detected
+2024-07-12 12:54:21,Motion,Detected
+2024-07-12 12:54:30,Motion,Detected
+2024-07-12 12:54:39,Motion,Detected
+2024-07-12 12:54:45,Motion,Not Detected
+2024-07-12 12:54:51,Motion,Detected
+2024-07-12 12:54:54,Motion,Not Detected
+2024-07-12 12:55:03,Motion,Not Detected
+2024-07-12 12:55:06,Motion,Not Detected
+2024-07-12 12:55:09,Motion,Detected
+2024-07-12 12:55:12,Motion,Not Detected
+2024-07-12 12:55:18,Motion,Not Detected
+2024-07-12 12:55:24,Motion,Not Detected
+2024-07-12 12:55:27,Motion,Not Detected
+2024-07-12 12:55:30,Motion,Detected
+2024-07-12 12:55:36,Motion,Not Detected
+2024-07-12 12:55:39,Motion,Not Detected
+2024-07-12 12:55:46,Motion,Detected
+2024-07-12 12:55:48,Motion,Not Detected
+2024-07-12 12:55:54,Motion,Not Detected
+2024-07-12 12:55:57,Motion,Not Detected
+2024-07-12 12:56:00,Motion,Not Detected
+2024-07-12 12:56:03,Motion,Not Detected
+2024-07-12 12:56:12,Motion,Not Detected
+2024-07-12 12:56:18,Motion,Detected
+2024-07-12 12:56:27,Motion,Detected
+2024-07-12 12:56:33,Motion,Not Detected
+2024-07-12 12:56:39,Motion,Detected
+2024-07-12 12:56:48,Motion,Not Detected
+2024-07-12 12:56:51,Motion,Not Detected
+2024-07-12 12:56:54,Motion,Not Detected
+2024-07-12 12:56:57,Motion,Not Detected
+2024-07-12 12:57:00,Motion,Not Detected
+2024-07-12 12:57:04,Motion,Not Detected
+2024-07-12 12:57:06,Motion,Not Detected
+2024-07-12 12:57:09,Motion,Not Detected
+2024-07-12 12:57:18,Motion,Detected
+2024-07-12 12:57:24,Motion,Not Detected
+2024-07-12 12:57:28,Motion,Not Detected
+2024-07-12 12:57:31,Motion,Not Detected
+2024-07-12 12:57:33,Motion,Not Detected
+2024-07-12 12:57:36,Motion,Not Detected
+2024-07-12 12:57:39,Motion,Not Detected
+2024-07-12 12:57:42,Motion,Not Detected
+2024-07-12 12:57:46,Motion,Not Detected
+2024-07-12 12:57:48,Motion,Not Detected
+2024-07-12 12:57:51,Motion,Not Detected
+2024-07-12 12:57:55,Motion,Not Detected
+2024-07-12 12:57:57,Motion,Not Detected
+2024-07-12 12:58:01,Motion,Not Detected
+2024-07-12 12:58:04,Motion,Not Detected
+2024-07-12 12:58:06,Motion,Not Detected
+2024-07-12 12:58:09,Motion,Not Detected
+2024-07-12 12:58:15,Motion,Not Detected
+2024-07-12 12:58:21,Motion,Detected
+2024-07-12 12:58:28,Motion,Not Detected
+2024-07-12 12:58:33,Motion,Detected
+2024-07-12 12:58:39,Motion,Not Detected
+2024-07-12 12:58:42,Motion,Not Detected
+2024-07-12 12:58:48,Motion,Not Detected
+2024-07-12 12:58:51,Motion,Not Detected
+2024-07-12 12:58:55,Motion,Not Detected
+2024-07-12 12:58:57,Motion,Not Detected
+2024-07-12 12:59:00,Motion,Not Detected
+2024-07-12 12:59:03,Motion,Not Detected
+2024-07-12 12:59:09,Motion,Not Detected
+2024-07-12 12:59:15,Motion,Not Detected
+2024-07-12 12:59:21,Motion,Detected
+2024-07-12 12:59:24,Motion,Not Detected
+2024-07-12 12:59:30,Motion,Not Detected
+2024-07-12 12:59:34,Motion,Not Detected
+2024-07-12 12:59:36,Motion,Not Detected
+2024-07-12 12:59:39,Motion,Not Detected
+2024-07-12 12:59:46,Motion,Not Detected
+2024-07-12 12:59:48,Motion,Not Detected
+2024-07-12 12:59:51,Motion,Not Detected
+2024-07-12 12:59:55,Motion,Not Detected
+2024-07-12 12:59:57,Motion,Not Detected
+2024-07-12 13:00:00,Motion,Not Detected
+2024-07-12 13:00:04,Motion,Not Detected
+2024-07-12 13:00:06,Motion,Not Detected
+2024-07-12 13:00:12,Motion,Not Detected
+2024-07-12 13:00:15,Motion,Not Detected
+2024-07-12 13:00:21,Motion,Not Detected
+2024-07-12 13:00:24,Motion,Not Detected
+2024-07-12 13:00:28,Motion,Not Detected
+2024-07-12 13:00:33,Motion,Not Detected
+2024-07-12 13:00:36,Motion,Not Detected
+2024-07-12 13:00:40,Motion,Not Detected
+2024-07-12 13:00:42,Motion,Not Detected
+2024-07-12 13:00:45,Motion,Not Detected
+2024-07-12 13:00:51,Motion,Not Detected
+2024-07-12 13:00:55,Motion,Not Detected
+2024-07-12 13:01:00,Motion,Detected
+2024-07-12 13:01:04,Motion,Not Detected
+2024-07-12 13:01:10,Motion,Not Detected
+2024-07-12 13:01:13,Motion,Not Detected
+2024-07-12 13:01:18,Motion,Detected
+2024-07-12 13:01:21,Motion,Not Detected
+2024-07-12 13:01:24,Motion,Not Detected
+2024-07-12 13:01:28,Motion,Not Detected
+2024-07-12 13:01:33,Motion,Not Detected
+2024-07-12 13:01:36,Motion,Not Detected
+2024-07-12 13:01:39,Motion,Not Detected
+2024-07-12 13:01:42,Motion,Not Detected
+2024-07-12 13:01:49,Motion,Not Detected
+2024-07-12 13:01:54,Motion,Detected
+2024-07-12 13:01:57,Motion,Not Detected
+2024-07-12 13:02:01,Motion,Not Detected
+2024-07-12 13:02:04,Motion,Not Detected
+2024-07-12 13:02:06,Motion,Not Detected
+2024-07-12 13:02:15,Motion,Not Detected
+2024-07-12 13:02:18,Motion,Detected
+2024-07-12 13:02:24,Motion,Not Detected
+2024-07-12 13:02:30,Motion,Not Detected
+2024-07-12 13:02:33,Motion,Not Detected
+2024-07-12 13:02:36,Motion,Not Detected
+2024-07-12 13:02:40,Motion,Not Detected
+2024-07-12 13:02:42,Motion,Not Detected
+2024-07-12 13:02:45,Motion,Not Detected
+2024-07-12 13:02:48,Motion,Not Detected
+2024-07-12 13:02:51,Motion,Not Detected
+2024-07-12 13:02:57,Motion,Not Detected
+2024-07-12 13:03:00,Motion,Not Detected
+2024-07-12 13:03:10,Motion,Not Detected
+2024-07-12 13:03:12,Motion,Not Detected
+2024-07-12 13:03:15,Motion,Not Detected
+2024-07-12 13:03:18,Motion,Not Detected
+2024-07-12 13:03:22,Motion,Not Detected
+2024-07-12 13:03:24,Motion,Not Detected
+2024-07-12 13:03:27,Motion,Not Detected
+2024-07-12 13:03:33,Motion,Not Detected
+2024-07-12 13:03:36,Motion,Not Detected
+2024-07-12 13:03:42,Motion,Not Detected
+2024-07-12 13:03:45,Motion,Detected
+2024-07-12 13:03:55,Motion,Detected
+2024-07-12 13:04:10,Motion,Not Detected
+2024-07-12 13:04:15,Motion,Not Detected
+2024-07-12 13:04:18,Motion,Not Detected
+2024-07-12 13:04:22,Motion,Detected
+2024-07-12 13:04:31,Motion,Not Detected
+2024-07-12 13:04:33,Motion,Not Detected
+2024-07-12 13:04:36,Motion,Detected
+2024-07-12 13:04:45,Motion,Not Detected
+2024-07-12 13:04:48,Motion,Not Detected
+2024-07-12 13:04:52,Motion,Not Detected
+2024-07-12 13:04:54,Motion,Not Detected
+2024-07-12 13:04:57,Motion,Not Detected
+2024-07-12 13:05:03,Motion,Not Detected
+2024-07-12 13:05:06,Motion,Not Detected
+2024-07-12 13:05:13,Motion,Not Detected
+2024-07-12 13:05:15,Motion,Not Detected
+2024-07-12 13:05:18,Motion,Not Detected
+2024-07-12 13:05:27,Motion,Detected
+2024-07-12 13:05:31,Motion,Not Detected
+2024-07-12 13:11:24,Motion,Detected
+2024-07-12 13:11:30,Motion,Not Detected
+2024-07-12 13:11:33,Motion,Not Detected
+2024-07-12 13:11:39,Motion,Not Detected
+2024-07-12 13:11:42,Motion,Detected
+2024-07-12 13:11:51,Motion,Detected
+2024-07-12 13:12:00,Motion,Detected
+2024-07-12 13:12:04,Motion,Not Detected
+2024-07-12 13:12:07,Motion,Not Detected
+2024-07-12 13:12:16,Motion,Detected
+2024-07-12 13:12:25,Motion,Not Detected
+2024-07-12 13:12:28,Motion,Detected
+2024-07-12 13:12:30,Motion,Not Detected
+2024-07-12 13:12:33,Motion,Not Detected
+2024-07-12 13:12:37,Motion,Not Detected
+2024-07-12 13:12:40,Motion,Not Detected
+2024-07-12 13:12:43,Motion,Not Detected
+2024-07-12 13:12:52,Motion,Not Detected
+2024-07-12 13:12:55,Motion,Not Detected
+2024-07-12 13:12:57,Motion,Not Detected
+2024-07-12 13:13:04,Motion,Not Detected
+2024-07-12 13:13:07,Motion,Not Detected
+2024-07-12 13:13:10,Motion,Not Detected
+2024-07-12 13:13:19,Motion,Not Detected
+2024-07-12 13:13:22,Motion,Detected
+2024-07-12 13:13:31,Motion,Detected
+2024-07-12 13:13:40,Motion,Not Detected
+2024-07-12 13:13:43,Motion,Detected
+2024-07-12 13:13:52,Motion,Not Detected
+2024-07-12 13:13:55,Motion,Not Detected
+2024-07-12 13:13:58,Motion,Not Detected
+2024-07-12 13:14:01,Motion,Not Detected
+2024-07-12 13:14:04,Motion,Not Detected
+2024-07-12 13:14:13,Motion,Detected
+2024-07-12 13:14:22,Motion,Detected
+2024-07-12 13:14:31,Motion,Detected
+2024-07-12 13:14:40,Motion,Detected
+2024-07-12 13:14:49,Motion,Detected
+2024-07-12 13:14:58,Motion,Not Detected
+2024-07-12 13:15:01,Motion,Not Detected
+2024-07-12 13:15:04,Motion,Detected
+2024-07-12 13:15:13,Motion,Not Detected
+2024-07-12 13:15:16,Motion,Not Detected
+2024-07-12 13:15:19,Motion,Not Detected
+2024-07-12 13:15:28,Motion,Detected
+2024-07-12 13:15:37,Motion,Not Detected
+2024-07-12 13:15:40,Motion,Detected
+2024-07-12 13:15:46,Motion,Not Detected
+2024-07-12 13:15:52,Motion,Not Detected
+2024-07-12 13:15:55,Motion,Not Detected
+2024-07-12 13:15:58,Motion,Not Detected
+2024-07-12 13:16:01,Motion,Not Detected
+2024-07-12 13:16:07,Motion,Not Detected
+2024-07-12 13:16:13,Motion,Not Detected
+2024-07-12 13:16:16,Motion,Detected
+2024-07-12 13:16:22,Motion,Not Detected
+2024-07-12 13:16:25,Motion,Not Detected
+2024-07-12 13:16:31,Motion,Not Detected
+2024-07-12 13:16:34,Motion,Not Detected
+2024-07-12 13:16:37,Motion,Detected
+2024-07-12 13:16:40,Motion,Not Detected
+2024-07-12 13:16:46,Motion,Not Detected
+2024-07-12 13:16:49,Motion,Not Detected
+2024-07-12 13:16:55,Motion,Detected
+2024-07-12 13:17:04,Motion,Detected
+2024-07-12 13:17:10,Motion,Not Detected
+2024-07-12 13:17:16,Motion,Detected
+2024-07-12 13:17:37,Motion,Not Detected
+2024-07-12 13:17:40,Motion,Not Detected
+2024-07-12 13:17:46,Motion,Detected
+2024-07-12 13:17:55,Motion,Detected
+2024-07-12 13:17:58,Motion,Not Detected
+2024-07-12 13:18:01,Motion,Not Detected
+2024-07-12 13:18:04,Motion,Not Detected
+2024-07-12 13:18:13,Motion,Not Detected
+2024-07-12 13:18:16,Motion,Detected
+2024-07-12 13:18:25,Motion,Detected
+2024-07-12 13:18:28,Motion,Not Detected
+2024-07-12 13:18:34,Motion,Not Detected
+2024-07-12 13:18:37,Motion,Not Detected
+2024-07-12 13:18:43,Motion,Not Detected
+2024-07-12 13:18:46,Motion,Detected
+2024-07-12 13:18:52,Motion,Not Detected
+2024-07-12 13:18:55,Motion,Not Detected
+2024-07-12 13:18:58,Motion,Not Detected
+2024-07-12 13:19:01,Motion,Not Detected
+2024-07-12 13:19:07,Motion,Not Detected
+2024-07-12 13:19:13,Motion,Detected
+2024-07-12 13:19:22,Motion,Not Detected
+2024-07-12 13:19:25,Motion,Detected
+2024-07-12 13:19:34,Motion,Detected
+2024-07-12 13:19:37,Motion,Not Detected
+2024-07-12 13:19:40,Motion,Not Detected
+2024-07-12 13:19:43,Motion,Not Detected
+2024-07-12 13:19:46,Motion,Not Detected
+2024-07-12 13:19:49,Motion,Not Detected
+2024-07-12 13:19:52,Motion,Not Detected
+2024-07-12 13:20:01,Motion,Not Detected
+2024-07-12 13:20:04,Motion,Detected
+2024-07-12 13:20:10,Motion,Not Detected
+2024-07-12 13:20:16,Motion,Not Detected
+2024-07-12 13:20:19,Motion,Not Detected
+2024-07-12 13:20:22,Motion,Not Detected
+2024-07-12 13:20:28,Motion,Not Detected
+2024-07-12 13:20:34,Motion,Not Detected
+2024-07-12 13:20:37,Motion,Detected
+2024-07-12 13:20:40,Motion,Not Detected
+2024-07-12 13:20:49,Motion,Not Detected
+2024-07-12 13:20:52,Motion,Not Detected
+2024-07-12 13:20:55,Motion,Detected

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT SmartHome</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="navbar__container">
+        <h1 class="navbar__logo">IOT SmartHome</h1>
+        <ul class="navbar__links">
+            <li><a href="{{ url_for('home') }}">Live Data</a></li>
+            <li><a href="{{ url_for('graphs') }}">Graphs</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="Graphs" class="graph__container">
+    <div class="graph__container--content">
+        <h2> Temperature Graph </h2>
+        <img src="data:image/png;base64,{{ temperature }}" alt="Temperature Graph">
+    </div>
+    <div class="graph__container--content">
+        <h2> Humidity Graph </h2>
+        <img src="data:image/png;base64,{{ humidity }}" alt="Humidity Graph">
+    </div>
+</div>
+
+</body>
+</html>
